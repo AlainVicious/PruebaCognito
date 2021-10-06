@@ -1,0 +1,12 @@
+https://cognito-idp.us-east-2.amazonaws.com/us-east-2_HoRcAd53R/authorize
+?client_id=5qe6b920tjvaq774tgdj59lqn1
+&redirect_uri=https%3A%2F%2Flocalhost%3A5001%2Fsignin-oidc
+&response_type=code
+&scope=openid%20profile
+&code_challenge=z_dgBmmC6nrzzPrfVmQjrUUUQkZvAufIwkOJskxpOnQ
+&code_challenge_method=S256
+&response_mode=form_post
+&nonce=637690919389961693.NjdjZTlmMTgtODAzNC00MDEzLWJiMmMtOTU4NGY0ZGUyNTcwMGU0MmIzMjYtZmYxZi00NWZkLThhYTYtZTI1YjZmN2MwZjdk
+&state=CfDJ8JqKHn5lqLhMn03-yPhd09k35KO6fHGhBshuLuNaqs0x5ZB-CmgGy103dIM681_rojYzAuPN5QJdUB9EjAPqpEM3a8rv_huaKV6JF-BWNOajathY9YXtR8MlO0hoSyk_IivCiQoyaNFIMFuMosipaw4693wV_1DaYoSa7kXtIwZ-l7HuawGft2J8cREmf7u2tvHl-MZitl1nKOP05-EC_-8jTyQeUlsSSrL9JH1zQWIUbGqzSLWwJhGcFw4-RlzlHQwOhMU_FKIBiunZMuSAp9bGjdiTZynFVpFnBQNqFbGH7Qf1rAQOLOE6x0MVXrtSpAKnj-HJCFOVnowBF0_F2dtptUYHZQYwikkKOh1_KAf0-VbPwZGhZOLIdF52hkY6tQ
+&x-client-SKU=ID_NETSTANDARD2_0
+&x-client-ver=6.12.2.0
