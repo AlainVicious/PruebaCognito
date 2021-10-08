@@ -20,10 +20,10 @@ namespace PruebaCognito.Pages
         {
             _logger = logger;
         }
-        public void OnGet()
+        public async void OnGet()
         {
-            var token = HttpContext.GetTokenAsync("access_token");
-            var idtoken = HttpContext.GetTokenAsync("id_token");
+            var token = await HttpContext.GetTokenAsync("access_token");
+            var idtoken = await HttpContext.GetTokenAsync("id_token");
         }
     }
 }
